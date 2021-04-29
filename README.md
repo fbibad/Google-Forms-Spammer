@@ -1,5 +1,7 @@
 # Google-Forms-Spammer
 
+NODE.JS REQUIRED (For now)
+
 Usage: 
 
 **[YOUR_COMPILED_EXE_FILENAME] /L [LINK] /M [MESSAGE] /N [NUMER_OF_REQUESTS] /T [NUMBER_OF_THREADS]**
